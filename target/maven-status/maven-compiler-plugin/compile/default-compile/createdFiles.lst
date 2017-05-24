@@ -1,0 +1,9 @@
+com/udea/serviciosretsudea/service/NewCrossOriginResourceSharingFilter.class
+com/udea/serviciosretsudea/service/CustomerFacadeREST.class
+com/udea/serviciosretsudea/service/ApplicationConfig.class
+com/udea/serviciosretsudea/service/DiscountCodeFacadeREST.class
+com/udea/serviciosretsudea/modelo/DiscountCode.class
+com/udea/serviciosretsudea/modelo/Customer.class
+com/udea/serviciosretsudea/modelo/MicroMarket.class
+com/udea/serviciosretsudea/service/MicroMarketFacadeREST.class
+com/udea/serviciosretsudea/service/AbstractFacade.class
